@@ -6,3 +6,4 @@ git commit -m "vvv" -> đặt tên commit
 git push -u origin tenhanh -> đấy thay đổi lên github vs thiết lập liên kết
 git push -> dùng các lần khác sau khi dùng lệnh trên
 git git
+git git
