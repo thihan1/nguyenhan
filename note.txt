@@ -1,0 +1,3 @@
+git branch - xem các nhánh và nhánh hiện tại
+git checkout -b tennhanh  -> tạo và chuyển sang nhánh mới
+git checkout tennhanh -> chuyển sang nhánh tennhanh
